@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Nishant Sethi",
+    "occupation": "ReactJS Developer && Power Programmer @Infosys",
+    "description": "Full Stack React Developer by Day && Student by Night. #Boss ",
+    "image": "nishant_sethi.jpeg",
+    "bio": "My Name is Nishant, I'm a Full Stack ReactJS Developer with Infosys ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "nsethi610@gmail.com",
+    "phone": "+44 7721808863",
+    "address": {
+      "city": "London",
+      "state": "UK"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1fPtjMgE4IOjLGbMB60XqqMhXB-u1LETS/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/nishant.sethi.7549/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nishant-sethi-0188b1a2/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "medium",
+        "url": "https://nsethi610.medium.com/",
+        "className": "fa fa-edit"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/nishant-sethi",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Jaypee University of Information Technology",
+        "degree": "Bachelors in Advanced Computer Science",
+        "graduated": "August 2017",
+        "description": "Passed with 7.4 CGPA (who cares about marks though)"
+      }
+    ],
+    "work": [
+      {
+        "company": "Infosys",
+        "title": "Specialist Programmer && MERN Stack Developer",
+        "years": "Aug 2017 - Present",
+        "description": "Developing Apps in ReactJS, Node and Express."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJS",
+        "level": "90%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS3",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "75%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://whatsapp-mern-53a6d.web.app"
+      },
+      {
+        "title": "Amazon Clone With Firebase",
+        "category": "Amazon Clone with Firebase (ReactJS, Redux and Firebase)",
+        "image": "amazon-clone.png",
+        "url": "https://clone-af859.web.app/"
+      },
+      {
+        "title": "Instagram Clone With Firebase",
+        "category": "Instagram Clone with Firebase (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "Instagram-clone.png",
+        "url": "https://instagram-clone-a4c86.web.app/"
+      },
+      {
+        "title": "Spotify Clone With Firebase",
+        "category": "Spotify Clone with Firebase (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "spotify-mern.jpeg",
+        "url": "https://my-spotify-app-clone.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I rarely come across real talents who stand out like Nishant. I had the pleasure of working with Nishant for one year at Infosys, managing on a project team. Nishant’s ability to handle the project was unlike any I’ve seen before and made a dramatic increase in the productivity level of our company. No matter how tense a meeting, he made sure he is always calm. As a team member or a leader, Nishant earns my highest recommendation",
+        "user": "Hidayath Ali, Project Manager, Infosys"
+      },
+      {
+        "text": "I met Nishant during a Developer Training Session in Infosys and collaborated with him over few project assignments. Nishant immediately struck me as a very enthusiastic, intelligent person with a hungry for more attitude. I was particularly impressed with his methodical approach to analyze & break down complex problems and then start to solutionize it. His communication skills especially showcase relevant examples and metaphors to convey an idea was impressive. Nishant will be an asset to any team & organization he works for.",
+        "user": "Deepak Sridharan, Tech Lead, Infosys"
+      }
+    ]
+  }
+}
