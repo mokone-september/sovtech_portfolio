@@ -23,8 +23,8 @@ class Footer extends Component {
             <ul className="copyright">
               <li>
                 &copy; Copyright 2020{" "}
-                <a href="https://www.linkedin.com/in/nishant-sethi-0188b1a2/">
-                  <strong>Nishant Sethi</strong>
+                <a href="https://www.linkedin.com/in/mokone-september/">
+                  <strong>Thabiso Kenneth Mokone</strong>
                 </a>
                 . All rights reserved.
               </li>

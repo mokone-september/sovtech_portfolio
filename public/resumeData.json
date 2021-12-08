@@ -1,80 +1,80 @@
 {
   "main": {
-    "name": "Nishant Sethi",
-    "occupation": "ReactJS Developer && Power Programmer @Infosys",
-    "description": "Full Stack React Developer by Day && Student by Night. #Boss ",
-    "image": "nishant_sethi.jpeg",
-    "bio": "My Name is Nishant, I'm a Full Stack ReactJS Developer with Infosys ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "nsethi610@gmail.com",
-    "phone": "+44 7721808863",
+    "name": "Thabis Kenneth Mokone",
+    "occupation": "HyperionDev Graduate",
+    "description": "Code can change the world for the better, being the hero and saving the day",
+    "image": "thabisokmokone.jpeg",
+    "bio": "My Name is Thabiso, I'm a HyperionDev Graduate excited about joining SovTech, to learn, grow and most of all transform into a vaulable team member",
+    "contactmessage": "Get in touch SovTech, I am hungry to learn and hungry to grow, for the love of code.",
+    "email": "mokonseptember@gmail.com",
+    "phone": "+27 813646473",
     "address": {
-      "city": "London",
-      "state": "UK"
+      "city": "Johannesburg",
+      "state": "South Africa"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1fPtjMgE4IOjLGbMB60XqqMhXB-u1LETS/view?usp=sharing",
+    "website": "https://mokone-september.github.io/thabiso_mokone_resume/",
+    "resumedownload": "https://drive.google.com/file/d/1cKxKbNo8gFx-WZOGeucaI2KudExwqpNH/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/nishant.sethi.7549/",
+        "url": "https://www.facebook.com/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nishant-sethi-0188b1a2/",
+        "url": "https://www.linkedin.com/in/mokone-september/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "medium",
-        "url": "https://nsethi610.medium.com/",
+        "url": "https://medium.com/",
         "className": "fa fa-edit"
       },
       {
         "name": "github",
-        "url": "https://github.com/nishant-sethi",
+        "url": "https://github.com/mokone-september",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Hi at SovTech, let me provide my skillset",
     "education": [
       {
-        "school": "Jaypee University of Information Technology",
-        "degree": "Bachelors in Advanced Computer Science",
-        "graduated": "August 2017",
-        "description": "Passed with 7.4 CGPA (who cares about marks though)"
+        "school": "HyperionDev",
+        "degree": "Software Engineering",
+        "graduated": "November 2021",
+        "description": "Passed with 96% Average"
       }
     ],
     "work": [
       {
-        "company": "Infosys",
-        "title": "Specialist Programmer && MERN Stack Developer",
-        "years": "Aug 2017 - Present",
-        "description": "Developing Apps in ReactJS, Node and Express."
+        "company": "Thuleka Lodge",
+        "title": "Night Adit: Frontdesk",
+        "years": "Feb 2018 - 2020",
+        "description": "Primarily responsible for ensuring guest safety and outstanding guest service"
       }
     ],
     "skills": [
       {
         "name": "ReactJS",
-        "level": "90%"
+        "level": "50%"
       },
       {
         "name": "NodeJS",
-        "level": "75%"
+        "level": "55%"
       },
       {
         "name": "HTML5",
-        "level": "90%"
+        "level": "60%"
       },
       {
         "name": "CSS3",
-        "level": "75%"
+        "level": "60%"
       },
       {
         "name": "MongoDB",
-        "level": "75%"
+        "level": "40%"
       },
       {
         "name": "Machine Learning",
@@ -89,40 +89,38 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "Poised Enginneering Project Management System",
+        "category": "This is a part of a series of HyperionDev Capstone Projects",
         "image": "whatsapp-mern.jpeg",
-        "url": "https://whatsapp-mern-53a6d.web.app"
+        "url": "https://github.com/mokone-september/Level-3-Capstone-Project-1"
       },
       {
-        "title": "Amazon Clone With Firebase",
-        "category": "Amazon Clone with Firebase (ReactJS, Redux and Firebase)",
+        "title": "Drone-Space-Pygame",
+        "category": "This is a part of a series of HyperionDev Capstone Projects",
         "image": "amazon-clone.png",
-        "url": "https://clone-af859.web.app/"
+        "url": "https://github.com/mokone-september/Level-1-Capstone-Project-2/tree/master/Drone_Space"
       },
       {
-        "title": "Instagram Clone With Firebase",
-        "category": "Instagram Clone with Firebase (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "A python Implementation for Machine Learning using a k-means algorithm",
+        "category": "This is a part of a series of HyperionDev Capstone Projects",
         "image": "Instagram-clone.png",
-        "url": "https://instagram-clone-a4c86.web.app/"
+        "url": "https://github.com/mokone-september/Level-3-Capstone-Project-2"
       },
       {
-        "title": "Spotify Clone With Firebase",
-        "category": "Spotify Clone with Firebase (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "A Java Implementation for a Project Management System",
+        "category": "This is a part of a series of HyperionDev Capstone Projects",
         "image": "spotify-mern.jpeg",
-        "url": "https://my-spotify-app-clone.netlify.app/"
+        "url": "https://github.com/mokone-september/Level-2-Capstone-Project-1/tree/master/CapstoneProject"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "I rarely come across real talents who stand out like Nishant. I had the pleasure of working with Nishant for one year at Infosys, managing on a project team. Nishant’s ability to handle the project was unlike any I’ve seen before and made a dramatic increase in the productivity level of our company. No matter how tense a meeting, he made sure he is always calm. As a team member or a leader, Nishant earns my highest recommendation",
-        "user": "Hidayath Ali, Project Manager, Infosys"
+        "text": "I have no testimonials, maybe SovTech can help!!!"
       },
       {
-        "text": "I met Nishant during a Developer Training Session in Infosys and collaborated with him over few project assignments. Nishant immediately struck me as a very enthusiastic, intelligent person with a hungry for more attitude. I was particularly impressed with his methodical approach to analyze & break down complex problems and then start to solutionize it. His communication skills especially showcase relevant examples and metaphors to convey an idea was impressive. Nishant will be an asset to any team & organization he works for.",
-        "user": "Deepak Sridharan, Tech Lead, Infosys"
+        "text": "I have no testimonials, maybe SovTech can help!!!"
       }
     ]
   }

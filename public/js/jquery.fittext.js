@@ -6,7 +6,7 @@
 * Released under the WTFPL license
 * http://sam.zoy.org/wtfpl/
 *
-* Date: Thu May 05 14:23:00 2011 -0600
+* Date: Dec 08, 2021, 16:24:18
 */
 
 (function( $ ){
