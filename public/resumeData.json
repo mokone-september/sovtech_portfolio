@@ -2,7 +2,7 @@
   "main": {
     "name": "Thabis Kenneth Mokone",
     "occupation": "HyperionDev Graduate",
-    "description": "Code can change the world for the better, being the hero and saving the day",
+    "description": "Hello World to SovTech, help me reach for the stars!",
     "image": "thabisokmokone.jpeg",
     "bio": "My Name is Thabiso, I'm a HyperionDev Graduate excited about joining SovTech, to learn, grow and most of all transform into a vaulable team member",
     "contactmessage": "Get in touch SovTech, I am hungry to learn and hungry to grow, for the love of code.",
@@ -26,8 +26,8 @@
         "className": "fa fa-linkedin"
       },
       {
-        "name": "medium",
-        "url": "https://medium.com/",
+        "name": "blogger",
+        "url": "https://www.blogger.com/u/1/blog/posts/5086866618854912925?pli=1",
         "className": "fa fa-edit"
       },
       {
